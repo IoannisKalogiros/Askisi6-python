@@ -1,1 +1,0 @@
-# Askisi6-python
